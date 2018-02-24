@@ -32,3 +32,5 @@ Haga click [aquí](https://www.google.com) para ir a Google.
 
 Otro texto
 
+## Sección 4
+
